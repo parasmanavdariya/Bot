@@ -1,2 +1,2 @@
 # Bot
- Personal assistant
+ A person who assists or helps someone else.
